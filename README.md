@@ -39,6 +39,8 @@ Initial data cleaning steps removed null values and duplicates, resulting in a r
 
 The analysis reveals a total sales revenue of approximately $8.2 million across 22,000 unique transactions from December 2010 to October 2011. Customer spending shows no strong correlation with purchase frequency with most customers showing low spending and few transactions, alongside a few high-spending outliers. Revenue grew significantly by November 2011, reaching $1.1 million monthly, while high-value orders include a notable outlier at $150,000. Product revenue fluctuates dynamically over time, with no consistent top performer among the top five products but "REGENCY CAKE STAND 3 TIER" brought most revenue overall.
 
+<img width="1203" height="805" alt="Screenshot 2025-07-22 at 15 24 50" src="https://github.com/user-attachments/assets/4fbafbe7-18ac-497f-a84f-46aa4c1b8b33" />
+
 ## Insights Deep Dive
 
 ### Sales Performance
