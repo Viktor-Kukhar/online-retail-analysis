@@ -11,7 +11,9 @@ Insights and recommendations are provided on the following key areas:
 - **Customer Behavior:** Spending rankings and repeat purchase patterns.
 - **Time-based Trends:** Sales patterns over time, including monthly and yearly trends.
 
-The SQL queries used to inspect, clean, and analyze the data for this project can be found in the Online_Retail_Analysis.sql file.
+The SQL queries used to inspect, clean, and analyze the data for this project can be found in the `Online_Retail_Analysis.sql` file.
+
+An interactive Tableau dashboard to report this findings can be found here: [Online Retail Dashboard](https://public.tableau.com/app/profile/viktor.kukhar/viz/Retail_17531934111190/Dashboard)
 
 ## Data Structure & Initial Checks
 
