@@ -37,7 +37,7 @@ Initial data cleaning steps removed null values and duplicates, resulting in a r
 
 ### Overview of Findings
 
-The analysis reveals a total sales revenue of approximately $8.2 million across 22,000 unique transactions from December 2010 to October 2011. Customer spending shows no strong correlation with purchase frequency with most customers showing low spending and few transactions, alongside a few high-spending outliers. Revenue grew significantly by November 2011, reaching $1.1 million monthly, while high-value orders include a notable outlier at $150,000. Product revenue fluctuates dynamically over time, with no consistent top performer among the top five products but "REGENCY CAKE STAND 3 TIER" brought most revenue overall.
+The analysis reveals a total sales revenue of approximately $8.2 million across 22,000 unique transactions from December 2010 to December 2011. Customer spending shows no strong correlation with purchase frequency with most customers showing low spending and few transactions, alongside a few high-spending outliers. Revenue grew significantly by November 2011, reaching $1.1 million monthly, while high-value orders include a notable outlier at $150,000. Product revenue fluctuates dynamically over time, with no consistent top performer among the top five products but "REGENCY CAKE STAND 3 TIER" brought most revenue overall.
 
 <img width="1203" height="805" alt="Screenshot 2025-07-22 at 15 24 50" src="https://github.com/user-attachments/assets/4fbafbe7-18ac-497f-a84f-46aa4c1b8b33" />
 
@@ -93,6 +93,7 @@ Based on the insights and findings above, we recommend the following to the mark
 
 Throughout the analysis, the following assumptions and caveats were noted:
 
+- **December 2011 is partial month** You can still include it via date filter.
 - **Data cleaning removed all null values and duplicates.** This assumes the remaining data accurately reflects the company’s transactions.
 - **The dataset spans the full operational period (2010-2011).** No missing months or significant gaps are assumed.
 - **Product descriptions are consistent.** Variations in naming (due to typos) were not addressed beyond trimming whitespace.
