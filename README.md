@@ -93,7 +93,7 @@ Based on the insights and findings above, we recommend the following to the mark
 
 Throughout the analysis, the following assumptions and caveats were noted:
 
-- **December 2011 is partial month** You can still include it via date filter.
+- **December 2011 is partial month.** You can still include it via date filter.
 - **Data cleaning removed all null values and duplicates.** This assumes the remaining data accurately reflects the company’s transactions.
 - **The dataset spans the full operational period (2010-2011).** No missing months or significant gaps are assumed.
 - **Product descriptions are consistent.** Variations in naming (due to typos) were not addressed beyond trimming whitespace.
