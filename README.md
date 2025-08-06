@@ -1,4 +1,4 @@
-# Online Retail Analysis SQL Project
+# Online Retail Analysis (2010-2011)
 
 ## Project Background
 
