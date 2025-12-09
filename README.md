@@ -30,8 +30,6 @@ Revenue doubled from $500K to $1.1M monthly between December 2010 and November 2
 
 - **Customer spending shows no correlation with purchase frequency.** Most customers spend under $100K with few transactions, but high-spending outliers ($150K-$250K) drive significant revenue despite low purchase counts.
 
-<img width="1203" height="805" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/4fbafbe7-18ac-497f-a84f-46aa4c1b8b33" />
-
 ---
 
 ## Recommendations
